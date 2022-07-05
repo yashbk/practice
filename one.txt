@@ -1,8 +1,4 @@
 Commit from master branch
-<<<<<<< HEAD
-
 Commit from master branch
 Commit from master branch
-=======
 Commit from slave branch
->>>>>>> slave
